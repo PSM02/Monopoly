@@ -1,5 +1,5 @@
 package edu.ncsu.monopoly;
-//updated 20222
+//I have added a coment
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
